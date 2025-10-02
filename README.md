@@ -32,5 +32,4 @@ pip install -r requirements/requirements.txt
 python code/svm_model.py
 ```
 
-## Author
-Internship Project - Elevate Labs
+
